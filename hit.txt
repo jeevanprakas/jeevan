@@ -1,4 +1,7 @@
 git init
+<<<<<<< HEAD
 git ls 
 verified
 git modified
+=======
+git verfied
